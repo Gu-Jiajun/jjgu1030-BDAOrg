@@ -16,14 +16,14 @@ My Ph.D. project consists of two parts: source estimation and spatial variation.
 Residential wood smoke containing harmful fine particles and toxic air pollutants (benzene, formaldhyde, acrolein and polycyclic aromatic hydrocarbons, etc.) can cause severe health problems such as bronchitis and asthma (see the following pictures). Identification of emission sources and evaluation of their impacts are important to enforce local woodsmoke regulations. 
 
 
-<img src="Motivation.png" width = "700" height = "" />    
+<img src="Motivation.png" width = "600" height = "" />    
 (Left: Black smoke from one stack; Middle: Cartoon of some health effects caused by the exposure to pollution from woodsmoke; Right: a house in Ithaca with the metal stack.)
 
 ### Problem Statement
 
 US Environmental Protection Agency (USEPA) researchers did an extensive wind tunnel experiment recently (Perry et al., 2016), which simulated the building downwash in a controlled environment to examine the influence of elongated rectangular buildings on the near-field dispersion of pollutants released near and above the building (see the following sketch of wind tunnel experiment setup). 
 
-<img src="WT_setup.jpg" width = "500" height = "300" alt="WT Setup" align="center" />
+<img src="WT_setup.jpg" width = "500" height = "250" alt="WT Setup" align="center" />
 
 (Sketch of the wind tunnel experiment setup)
 
