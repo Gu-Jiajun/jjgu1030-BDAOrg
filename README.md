@@ -17,7 +17,7 @@ Residential wood smoke containing harmful fine particles and toxic air pollutant
 
 
 <img src="Motivation.png" width = "600" height = "" />    
-(Left: Black smoke from one stack; Middle: Cartoon of some health effects caused by the exposure to pollution from woodsmoke; Right: a house in Ithaca with the metal stack.)
+(Left: black smoke from one stack; Middle: cartoon of some health effects caused by the exposure to pollution from woodsmoke; Right: a house in Ithaca with the metal stack.)
 
 ### Problem Statement
 
