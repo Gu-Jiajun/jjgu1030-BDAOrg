@@ -29,6 +29,6 @@ US Environmental Protection Agency (USEPA) researchers did an extensive wind tun
 
 The main objective is to quantify the source emission rate and determine the source location of the pollutants based on the downwind concentration measurement data (see the following examples of measurement data). After the source is identified, the second step is to predict the concentration profiles covering the whole domain of building downwind side. Data with different stack locations and heights (h<sub>s</sub>), different building aspect ratios (L*W) and different building angles with respect to the wind are to be used (θ).
 
-<img src="WT_measurement.png" width = "550" height = "" alt="WT Measurement" />
+<img src="WT_measurement.png" width = "700" height = "" alt="WT Measurement" />
 
 (Wind tunnel measurements for 1*2 buildings with the 1.5H high stack located in the middle of the buiding downwind side)
