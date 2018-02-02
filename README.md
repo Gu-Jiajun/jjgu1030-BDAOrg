@@ -15,19 +15,20 @@ My Ph.D. project consists of two parts: source estimation and spatial variation.
 
 Residential wood smoke containing harmful fine particles and toxic air pollutants (benzene, formaldhyde, acrolein and polycyclic aromatic hydrocarbons, etc.) can cause severe health problems such as bronchitis and asthma (see the following pictures). Identification of emission sources and evaluation of their impacts are important to enforce local woodsmoke regulations. 
 
-<img src="/Users/jiajungu/Desktop/2018 Spring/STSCI 4780/03 Homework/Lab 01 Assignment/jjgu1030-BDAOrg/Motivation.png" width = "450" height = "" alt="Motivation" />    
-(##Left:## Black smoke from one stack; **Middle:** Cartoon of some health effects caused by the exposure to pollution from woodsmoke; **Right:** a house in Ithaca with the metal stack.)
+
+<img src="Motivation.png" width = "450" height = "" />    
+(Left: Black smoke from one stack; Middle: Cartoon of some health effects caused by the exposure to pollution from woodsmoke; Right: a house in Ithaca with the metal stack.)
 
 ### Problem Statement
 
 US Environmental Protection Agency (USEPA) researchers did an extensive wind tunnel experiment recently (Perry et al., 2016), which simulated the building downwash in a controlled environment to examine the influence of elongated rectangular buildings on the near-field dispersion of pollutants released near and above the building (see the following sketch of wind tunnel experiment setup). 
 
-<img src="/Users/jiajungu/Desktop/2018 Spring/STSCI 4780/03 Homework/Lab 01 Assignment/jjgu1030-BDAOrg/WT_setup.jpg" width = "450" height = "200" alt="WT Setup" />
+<img src="WT_setup.jpg" width = "450" height = "200" alt="WT Setup" />
 
 (Sketch of the wind tunnel experiment setup)
 
 The main objective is to quantify the source emission rate and determine the source location of the pollutants based on the downwind concentration measurement data (see the following examples of measurement data). After the source is identified, the second step is to predict the concentration profiles covering the whole domain of building downwind side. Data with different stack locations and heights (h<sub>s</sub>), different building aspect ratios (L*W) and different building angles with respect to the wind are to be used (θ).
 
-<img src="/Users/jiajungu/Desktop/2018 Spring/STSCI 4780/03 Homework/Lab 01 Assignment/jjgu1030-BDAOrg/WT_measurement.png" width = "550" height = "" alt="WT Measurement" />
+<img src="WT_measurement.png" width = "550" height = "" alt="WT Measurement" />
 
 (Wind tunnel measurements for 1*2 buildings with the 1.5H high stack located in the middle of the buiding downwind side)
