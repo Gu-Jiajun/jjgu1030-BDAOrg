@@ -16,7 +16,7 @@ My Ph.D. project consists of two parts: source estimation and spatial variation.
 Residential wood smoke containing harmful fine particles and toxic air pollutants (benzene, formaldhyde, acrolein and polycyclic aromatic hydrocarbons, etc.) can cause severe health problems such as bronchitis and asthma (see the following pictures). Identification of emission sources and evaluation of their impacts are important to enforce local woodsmoke regulations. 
 
 <img src="/Users/jiajungu/Desktop/2018 Spring/STSCI 4780/03 Homework/Lab 01 Assignment/jjgu1030-BDAOrg/Motivation.png" width = "450" height = "" alt="Motivation" />    
-(**Left:** Black smoke from one stack; **Middle:** Cartoon of some health effects caused by the exposure to pollution from woodsmoke; **Right:** a house in Ithaca with the metal stack.)
+(##Left:## Black smoke from one stack; **Middle:** Cartoon of some health effects caused by the exposure to pollution from woodsmoke; **Right:** a house in Ithaca with the metal stack.)
 
 ### Problem Statement
 
