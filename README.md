@@ -23,12 +23,12 @@ Residential wood smoke containing harmful fine particles and toxic air pollutant
 
 US Environmental Protection Agency (USEPA) researchers did an extensive wind tunnel experiment recently (Perry et al., 2016), which simulated the building downwash in a controlled environment to examine the influence of elongated rectangular buildings on the near-field dispersion of pollutants released near and above the building (see the following sketch of wind tunnel experiment setup). 
 
-<img src="WT_setup.jpg" width = "450" height = "200" alt="WT Setup" />
+<img src="WT_setup.jpg" width = "450" height = "200" alt="WT Setup" / align="center">
 
 (Sketch of the wind tunnel experiment setup)
 
 The main objective is to quantify the source emission rate and determine the source location of the pollutants based on the downwind concentration measurement data (see the following examples of measurement data). After the source is identified, the second step is to predict the concentration profiles covering the whole domain of building downwind side. Data with different stack locations and heights (h<sub>s</sub>), different building aspect ratios (L*W) and different building angles with respect to the wind are to be used (θ).
 
-<img src="WT_measurement.png" width = "700" height = "" alt="WT Measurement" />
+<img src="WT_measurement.png" width = "900" height = "" alt="WT Measurement" />
 
 (Wind tunnel measurements for 1*2 buildings with the 1.5H high stack located in the middle of the buiding downwind side)
