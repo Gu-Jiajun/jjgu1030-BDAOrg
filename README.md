@@ -23,7 +23,7 @@ Residential wood smoke containing harmful fine particles and toxic air pollutant
 
 US Environmental Protection Agency (USEPA) researchers did an extensive wind tunnel experiment recently (Perry et al., 2016), which simulated the building downwash in a controlled environment to examine the influence of elongated rectangular buildings on the near-field dispersion of pollutants released near and above the building (see the following sketch of wind tunnel experiment setup). 
 
-<img src="WT_setup.jpg" width = "500" height = "250" alt="WT Setup" align="center" />
+<img src="WT_setup.jpg" width = "450" height = "200" alt="WT Setup" align="center" />
 
 (Sketch of the wind tunnel experiment setup)
 
